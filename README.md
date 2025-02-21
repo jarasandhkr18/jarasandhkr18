@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jarasandh Kumar
-- 👀 I’m interested in Data Analysis, Business Analysis, Market Analysis, Machine Learning, Statistics, Data Science
-- 🌱 I’m currently learning Machine learning
+- 👀 Interested in Data and Business Analytics, Machine Learning, Data Science
+- 🌱 Currently exploring Machine learning
 - 😄 Pronouns: JK
 
 
